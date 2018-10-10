@@ -6,6 +6,6 @@ Hello GitHub
 
 
 
-#second section
+# second section
 
 - item 2
